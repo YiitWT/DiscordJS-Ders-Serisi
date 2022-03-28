@@ -3,5 +3,5 @@ Selamlar arkadaşlar bu proje üzerinde YOUTUBE'de yapmakta olduğum serinin gü
 Kodlar tamamiyle bana aittir lisans dosyası bulunmaktadır.
 Herhangibi bir hata sonucu destek almak için discordum aşşağıdadır.
 
-# Yiit#4287
+# Yiit#3276
 # discord.gg/spFekGhEtp
