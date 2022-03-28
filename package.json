@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "discord-sync-commands": "^0.3.0",
     "discord.js": "^13.6.0",
+    "fs": "^0.0.2",
     "kubitdb": "^1.4.6"
   }
 }
